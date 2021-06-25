@@ -8,8 +8,6 @@
 - 💬 Ask me about Anything 😊
 - 📫 How to reach me: Discord: USK#2168
 
-___
-
 ## Languages and Tools
 
 ![vscode][vscode]
@@ -17,9 +15,6 @@ ___
 ![tailwindcss][tailwindcss]
 ![nuxtjs][nuxtjs]
 ![nodejs][nodejs]
-
- 
- ___
 
 
 [facebook]:     https://www.facebook.com/sokhuong.uon.50/
