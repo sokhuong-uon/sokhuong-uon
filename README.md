@@ -16,6 +16,11 @@
 ![nuxtjs][nuxtjs]
 ![nodejs][nodejs]
 
+## My Youtube Videos
+
+[![The Boring Session #2: Pages Directoty and routing](https://img.youtube.com/vi/nvN0SCvLer8/0.jpg)](https://www.youtube.com/watch?v=nvN0SCvLer8)
+
+
 
 [facebook]:     https://www.facebook.com/sokhuong.uon.50/
 [css3]:         https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-css3.svg
