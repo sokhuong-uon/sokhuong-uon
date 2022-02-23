@@ -1,12 +1,8 @@
 ### Hi there 👋
-
-- 👨‍🎓 I'm a student of Kirirom Institute of Technology (KIT)
-- 🔭 I’m currently working on 3D web content with Three.js
-- 🌱 I’m currently learning Tailwindcss, Nuxtjs, Three.js, GLSL
-- 👯 I’m looking to collaborate on 🤔
-- 🤔 I’m looking for help with **Three.js** and **GLSL**
-- 💬 Ask me about Anything 😊
-- 📫 How to reach me: Discord: USK#2168
+### I am [Sokhuong](https://www.sokhuong.xyz/)
+####  🔭 I make 3D content for web using [three.js](https://threejs.org/)
+#### 🌱 I’m currently learning [Tailwind CSS](https://tailwindcss.com/), [Next.js](https://nextjs.org/), [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+#### 📫 Text me on Discord: [USK#2168](https://discord.com/users/696698615493820478)
 
 ## Languages and Tools
 
