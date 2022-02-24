@@ -2,7 +2,7 @@
 ### I am [Sokhuong](https://www.sokhuong.xyz/)
 ####  🔭 I make 3D content for web using [three.js](https://threejs.org/)
 #### 🌱 I’m currently learning [Tailwind CSS](https://tailwindcss.com/), [Next.js](https://nextjs.org/), [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
-#### 📫 Text me on Discord: [USK#2168](https://discord.com/users/696698615493820478)
+#### 📫 Text me on Discord: [USK#2168](https://discord.com/users/696698615493820478), Twitter: [@SOKHUONG3](https://twitter.com/SOKHUONG3)
 
 ## Languages and Tools
 
@@ -10,17 +10,12 @@
 ![python][python]
 ![tailwindcss][tailwindcss]
 ![nuxtjs][nuxtjs]
-![nodejs][nodejs]
 
 ## My Youtube Videos
 
 [![The Boring Session #2: Pages Directoty and routing](https://img.youtube.com/vi/nvN0SCvLer8/0.jpg)](https://www.youtube.com/watch?v=nvN0SCvLer8)
 
 
-
-[facebook]:     https://www.facebook.com/sokhuong.uon.50/
-[css3]:         https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-css3.svg
-[html5]:        https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-html5.svg
 [django]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-django.svg
 [git]:          https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-git.svg
 [github]:       https://raw.githubusercontent.com/SOKHUONG/SOKHUONG/master/static/icon/icons8-github.svg
