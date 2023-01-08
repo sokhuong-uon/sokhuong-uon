@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am [Sokhuong](https://twitter.com/SOKHUONG3)
+### I am [Sokhuong](https://sokhuong.vercel.app/)
  My Youtube channel: https://www.youtube.com/@alotofcode
 ####  🔭 I make 3D content for web using [three.js](https://threejs.org/) and [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 #### 🌱 I’m currently learning [Tailwind CSS](https://tailwindcss.com/), [Next.js](https://nextjs.org/), [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
