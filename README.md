@@ -5,7 +5,7 @@
 #### 🌱 I’m currently learning [Tailwind CSS](https://tailwindcss.com/), [Next.js](https://nextjs.org/), [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 #### 📫 Text me on Discord: [USK#2168](https://discord.com/users/696698615493820478), Twitter: [@SOKHUONG3](https://twitter.com/SOKHUONG3)
 ## State
-![Stats](https://github-readme-stats-sokhuong-uon.vercel.app/api/?username=sokhuong-uon&theme=tokyonight&show_icons=true)
+[![Stats](https://github-readme-stats-sokhuong-uon.vercel.app/api/?username=sokhuong-uon&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-sokhuong-uon.vercel.app/api/top-langs/?username=sokhuong-uon&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Youtube Videos
