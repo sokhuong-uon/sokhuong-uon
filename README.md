@@ -9,7 +9,6 @@
 [![Top Langs](https://github-readme-stats-sokhuong-uon.vercel.app/api/top-langs/?username=sokhuong-uon&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Youtube Videos
-
-[![The Boring Session #2: Pages Directoty and routing](https://img.youtube.com/vi/nvN0SCvLer8/0.jpg)](https://www.youtube.com/watch?v=nvN0SCvLer8)
-[Animation](https://youtube.com/shorts/hW4rycwuLUw?feature=share)
-
+| Wobbly Box with React Three Fiber | Generic Type in Golang |
+| ----- | ------ |
+|[![Wobbly box with React Three Fiber](https://i.ytimg.com/vi/zjhcStX0T4o/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBVKFIwDw==&rs=AOn4CLChKRxWl6B341Q64tm1VdxlaAch_g)](https://youtube.com/shorts/zjhcStX0T4o)|[![Generic type in Golang](https://i.ytimg.com/vi/pXNr7WlVigY/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKADIoCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLA2vLyWZNd1s1jdBGlkq64kRl7V-g)](https://youtube.com/shorts/pXNr7WlVigY)|
