@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am [Sokhuong](https://sokhuong.vercel.app/)
 ####  🔭 I make 3D content for web using [three.js](https://threejs.org/) and [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
-#### 🌱 I’m currently learning [Tailwind CSS](https://tailwindcss.com/), [Next.js](https://nextjs.org/), [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+#### 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
 #### 📫 Text me on Discord: [khuong](https://discord.com/users/696698615493820478)
 ## Github State
 [![Stats](https://github-readme-stats-sokhuong-uon.vercel.app/api/?username=sokhuong-uon&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
