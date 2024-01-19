@@ -37,22 +37,9 @@ I use various tools to make Responsive Web App which is Accessible, SEO Friendly
 ![Figma](https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-000000.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-000000.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white)
-
-![Tauri](https://img.shields.io/badge/tauri-000000.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 ![Nginx](https://img.shields.io/badge/nginx-000000.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
