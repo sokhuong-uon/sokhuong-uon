@@ -48,12 +48,6 @@ I use various tools to make Responsive Web App which is Accessible, SEO Friendly
 ![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
-
-
-
-
 ### Stats
 
-[![Top Langs](https://github-readme-stats-sokhuong-uon.vercel.app/api/top-langs/?username=sokhuong-uon&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sokhuong-uon.vercel.app/api/top-langs/?username=sokhuong-uon&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
