@@ -1,10 +1,12 @@
 ### Hi there 👋
 ### I am [Sokhuong](https://sokhuong.vercel.app/).
-A Front-end web developer in Phnom Penh.
+ A Front-end web developer in Phnom Penh.
 
-I use various tools to make Responsive Web App which is Accessible, SEO Friendly, and Optimized.
+I use various tools to make _Responsive Web App_ which is **Accessible**, good **SEO**, and **Optimized for Performance**.
 
-### Tools that I use and explore:
+**Hire me**: sokhuong.usk@gmail.com
+
+## Tools that I use and explore:
 ![React](https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
