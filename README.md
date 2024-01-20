@@ -8,7 +8,7 @@ I use various tools to make _Responsive Web App_ that **Accessible** and **Optim
 
 **Hire me**: sokhuong.usk@gmail.com
 
-## Tools that I use and explore:
+## Some Tools that I use and explore:
 
 ![React](https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
