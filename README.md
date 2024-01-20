@@ -4,7 +4,7 @@
 
 A Front-end web developer in Phnom Penh.
 
-I use various tools to make _Responsive Web App_ that **Accessible** and **Optimized for Performance**.
+I use various tools to make _Responsive Web App_ that **Accessible**, **Optimized for Performance** and **Secure**.
 
 **Hire me**: sokhuong.usk@gmail.com
 
