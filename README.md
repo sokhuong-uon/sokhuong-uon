@@ -1,12 +1,15 @@
 ### Hi there 👋
+
 ### I am [Sokhuong](https://sokhuong.vercel.app/).
- A Front-end web developer in Phnom Penh.
+
+A Front-end web developer in Phnom Penh.
 
 I use various tools to make _Responsive Web App_ that **Accessible** and **Optimized for Performance**.
 
 **Hire me**: sokhuong.usk@gmail.com
 
 ## Tools that I use and explore:
+
 ![React](https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -51,14 +54,23 @@ I use various tools to make _Responsive Web App_ that **Accessible** and **Optim
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Recent works
+
 <!--![rhac-home](https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/858e6adc-6f77-4710-8ca7-5b0ca7125b48) -->
 <!--![virtual-tour](https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/5b38035d-4e0a-4721-a611-68060589a985)-->
 
 <ul>
 <li><a href="https://rhac.org.kh"><img src="https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/858e6adc-6f77-4710-8ca7-5b0ca7125b48" width="300" alt="RHAC home page"/></a></li>
-<li><a href="https://virtual-tour-nextjs-eight.vercel.app/tour/2"><img src="https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/5b38035d-4e0a-4721-a611-68060589a985" width="300" alt="Inside a Virtual Tour"/></a></li>
+<li><a href="https://virtual-tour-nextjs-eight.vercel.app/tour/2"><img src="https://github.com/sokhuong-uon/sokhuong-uon/assets/77433349/5b38035d-4e0a-4721-a611-68060589a985" width="290" alt="Inside a Virtual Tour"/></a></li>
 </ul>
 
+<style>
+  ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    list-style-type: none;
+  }
+</style>
 
 ### Stats
 
