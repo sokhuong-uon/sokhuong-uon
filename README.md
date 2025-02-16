@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-### I am [Sokhuong](https://sokhuong.vercel.app/).
+### I am [Sokhuong](https://sokhuong.com).
 
 A Front-end web developer in Phnom Penh.
-
-I use various tools to make _Responsive Web App_ that **Accessible**, **Optimized for Performance** and **Secure**.
-
-**Hire me**: sokhuong.usk@gmail.com
 
 ## Some Tools that I use and explore:
 
